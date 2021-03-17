@@ -1,7 +1,9 @@
 # Readme
 
 For explanation of the code, please refer to the published research report (pdf file).
+
 The data was obtained from https://www.kaggle.com/nareshbhat/air-quality-pre-and-post-covid19-pandemic.
+
 Any discussion matters and research collaboration ideas can be sent by email to ivanksinggih@gmail.com.
 
 Thank you.  
